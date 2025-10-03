@@ -12,15 +12,15 @@ The analysis includes **EDA, feature correlation, moving averages, and two model
 ## 📊 Exploratory Data Analysis
 
 - ### 1 Trend analysis of Tesla stock Closing prices over time
-![Line Plot Graph](images/Tesla_Closing_Price_Over_time.png)
+![Line Plot Graph](Tesla_Closing_Price_Over_time.png)
 - ### 2 Trend analysis of Tesla stock Closing prices over the years
-![Bar Plot Graph](images/trend_of_closing_price_over_the_years.png)
+![Bar Plot Graph](trend_of_closing_price_over_the_years.png)
 - ### 3 50-day vs 200-day moving averages 
-![Line Plot Graph](images/Tesla_Stock_with_Moving_Average.png)
+![Line Plot Graph](Tesla_Stock_with_Moving_Average.png)
 - ### 4 Correlation heatmap of stock features 
-![Line Plot Graph](images/Correlation_between_Open,_High,_Low,_Volume,_and_Close.png)
+![Line Plot Graph](Correlation_between_Open,_High,_Low,_Volume,_and_Close.png)
 - ### 5 Volume vs Closing Price scatter plot
-![Line Plot Graph](images/Trading_Volume_vs_Closing_Price.png)
+![Line Plot Graph](Trading_Volume_vs_Closing_Price.png)
   
 
 ---
@@ -42,13 +42,13 @@ The analysis includes **EDA, feature correlation, moving averages, and two model
 ## 📊 Model Comparison
 
 ### 1️⃣ Linear Regression – Actual vs Predicted Closing Price
-![Linear Regression Graph](images/linear_regression.png)
+![Linear Regression Graph](linear_regression.png)
 
 ### 2️⃣ Logistic Regression – Confusion Matrix
-![Logistic Regression Confusion Matrix](images/logistic_regression_cm.png)
+![Logistic Regression Confusion Matrix](logistic_regression_cm.png)
 
 ### 3️⃣ Side-by-Side Metric Comparison
-![Model Performance Comparison](images/model_comparison.png)
+![Model Performance Comparison](model_comparison.png)
 
 - **Linear Regression (R²)** → measures how well regression predictions fit actual prices  
 - **Logistic Regression (Accuracy)** → measures classification correctness  
